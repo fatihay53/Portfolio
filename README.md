@@ -12,14 +12,12 @@
 
 ## Demo:
 
-
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77207167/112416061-55da9380-8cfb-11eb-87da-3acc64f70b84.jpg" >
 </p>
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/77207167/112082236-5f2cfa00-8b5b-11eb-856d-9ad8d48d6756.jpg" width="65%" height="65%">
+<img  src="https://user-images.githubusercontent.com/77207167/112416130-760a5280-8cfb-11eb-8702-cfc9311c96e8.jpg" >
 </p>
 
 
@@ -27,7 +25,7 @@
 <img src="https://user-images.githubusercontent.com/77207167/112082317-8388d680-8b5b-11eb-9672-81bb81ed0087.jpg" width="65%" height="65%">
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77207167/112082416-b7fc9280-8b5b-11eb-8a6f-3d42b7c3f25c.jpg" width="65%" height="65%">
+<img src="https://user-images.githubusercontent.com/77207167/112416160-815d7e00-8cfb-11eb-8cba-aee974c9b4a5.jpg">
 </p>
 
 
