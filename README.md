@@ -27,10 +27,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77207167/112572406-7ddffa80-8dc0-11eb-8b1c-8a16ee496251.jpg">
 </p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/77207167/112082416-b7fc9280-8b5b-11eb-8a6f-3d42b7c3f25c.jpg" width="65%" height="65%">
-</p>
-
 
 </h1>
 
